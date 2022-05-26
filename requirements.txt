@@ -109,7 +109,7 @@ tensorflow-estimator==2.2.0
 termcolor==1.1.0
 tweepy==3.8.0
 twilio==6.41.0
-Twisted==18.9.0
+Twisted==22.4.0
 ubuntu-advantage-tools==20.3
 ubuntu-drivers-common==0.0.0
 ufw==0.36
